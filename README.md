@@ -7,7 +7,7 @@ La Biblioteca Digital es un proyecto en Java que digitaliza la gestión de una b
 - [Uso](#uso)
 
 ## Instalación
-1. Clona el repositorio: `git clone https://github.com/tu_usuario/BibliotecaDigital.git`
+1. Clona el repositorio: `(https://github.com/tati-18/LibraryProject.git)`
 2. Navega al directorio del proyecto: `cd BibliotecaDigital`
 4. Ejecuta la aplicación: `java BibliotecaDigital`
 
